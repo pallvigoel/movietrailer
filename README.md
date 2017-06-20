@@ -1,7 +1,7 @@
-## Movie Trailer Project
+### Movie Trailer Project
 This project will show you list of movies posters along with their titles and on clicking on the poster it will show you the trailer of movie.
 
-## Table Of Contents
+# Table Of Contents
 * Demo
 * Installation
 * Getting Started
