@@ -21,9 +21,9 @@ To get started fork this [repository](https://github.com/adarsh0806/ud036_Starte
 As we are requied to focus on OOPS concept in this project.
 These two files:
 
-*[movie.py](https://github.com/pallvigoel/movietrailer/blob/master/media/movie.py)
+[movie.py](https://github.com/pallvigoel/movietrailer/blob/master/media/movie.py)
 
-*[enter.py](https://github.com/pallvigoel/movietrailer/blob/master/media/enter.py)
+[enter.py](https://github.com/pallvigoel/movietrailer/blob/master/media/enter.py)
 
 # Documentation
 In first file movie.py you need to make a  Movie class and you can make method functions too.
