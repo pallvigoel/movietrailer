@@ -6,6 +6,7 @@ This project will show you list of movies posters along with their titles and on
 * Installation
 * Getting Started
 * Documentation
+* Running
 * References
 
 
@@ -24,6 +25,9 @@ These two files:
 [movie.py](https://github.com/pallvigoel/movietrailer/blob/master/media/movie.py)
 
 [enter.py](https://github.com/pallvigoel/movietrailer/blob/master/media/enter.py)
+
+# Running:
+You need to run enter.py to test whether your website is rendering the content or not.
 
 # Documentation
 In first file movie.py you need to make a  Movie class and you can make method functions too.
