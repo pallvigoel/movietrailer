@@ -5,7 +5,7 @@ class Movie():
     """This class represents the blueprint of a movie"""
 
     def __init__(self, title, story, image, trailer):
-        """This method  creates a movie
+        """This method  creates a movie.
 
         :param title: title
         :type title: str
