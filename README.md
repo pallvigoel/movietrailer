@@ -27,7 +27,7 @@ These two files:
 [enter.py](https://github.com/pallvigoel/movietrailer/blob/master/media/enter.py)
 
 # Running:
-You need to run enter.py to test whether your website is rendering the content or not.
+You need to run enter.py to test whether your website is rendering the content or not that means to start your application in python console(IDLE).
 
 # Documentation
 In first file movie.py you need to make a  Movie class and you can make method functions too.
